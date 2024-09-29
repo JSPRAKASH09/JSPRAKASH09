@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m currently learning Machine Learning and Data analysis
+🤝 Open to collaborating on Data Science, Machine Learning, and Python projects.
+💡 Believe in the power of community-driven learning | Let's grow together!
+🛠️ Building projects that inspire, collaborate, and contribute to the tech community.
 
 
 ## 🌐 Socials:
